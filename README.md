@@ -14,4 +14,3 @@ This is Hello World in Python. The purpose of this project was to explore differ
 # Useful Websites
 
 * [Youtube](http://youtube.com)
-* [Web Site Name](http://url.link.goes.here)
